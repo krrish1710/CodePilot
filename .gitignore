@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+client/.env
+server/.env
+
+# Dependencies
+node_modules
+client/node_modules
+server/node_modules
+
+# Build outputs
+dist
+build
+client/dist
+server/dist
+
+# Logs
+*.log
+npm-debug.log*
